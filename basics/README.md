@@ -1,1 +1,1 @@
-This directory contains basics of Shell commands.
+This directory contains scripts for listing and navigating directories.
